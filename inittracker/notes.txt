@@ -1,0 +1,20 @@
+Wanted Features
+-dm make notes next to monsters
+-who has bardic insperation
+-mass deaths
+
+Maybe
+-music for different settings
+-npc profiles/list
+
+DONE -mass health edits
+DONE -player AC
+DONE -monster bloody
+DONE -responding to player's entering init
+DONE -combat music
+
+
+"Bug" Fixes
+-adding a monster add back all removed monsters
+
+DONE -after a monster is bloody everytime the dm changes its' health it prints the full chart

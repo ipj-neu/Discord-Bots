@@ -1,0 +1,8 @@
+BubbleBot/sounds/*
+inittracker/.env
+BubbleBot/.env
+BubbleBot/submission/*
+BubbleBot/cogs/__pycache__
+inittracker/music_files/*
+inittracker/noncombat_music/*
+BubbleBot/cogs/testing.py

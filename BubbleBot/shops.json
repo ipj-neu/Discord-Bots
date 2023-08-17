@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Shop1",
+        "items": [
+            {"iname": "Item1", "iprice": 15, "iquantity": 15},
+            {"iname": "Item2", "iprice": 100, "iquantity": 15},
+            {"iname": "Item3", "iprice": 100, "iquantity": 15}
+        ]
+    },
+    {
+        "name": "Shop2",
+        "items": [
+            {"iname": "Item1", "iprice": 15, "iquantity": 15},
+            {"iname": "Item2", "iprice": 100, "iquantity": 15},
+            {"iname": "Item3", "iprice": 100, "iquantity": 15}
+        ]
+    },
+    {
+        "name": "Shop3",
+        "items": [
+            {"iname": "Item1", "iprice": 15, "iquantity": 15},
+            {"iname": "Item2", "iprice": 100, "iquantity": 15},
+            {"iname": "Item3", "iprice": 100, "iquantity": 15}
+        ]
+    }
+]
